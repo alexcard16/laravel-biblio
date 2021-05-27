@@ -4,5 +4,7 @@
 			"path": "biblioteca"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }
